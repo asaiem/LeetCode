@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Languages Used](#JS and C++)
+- [Languages Used](#languages-used)
 - [Problem Categories](#problem-categories)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,27 +17,12 @@ Welcome to my LeetCode solutions repository! Here, you'll find solutions to a va
 
 ## Languages Used
 
-The solutions in this repository are implemented using [language(s) you've used, e.g., Python, JavaScript, Java, etc.]. Each solution folder is named after the problem's title and contains a README.md file with the problem statement, explanation, and code.
-
-## Problem Categories
-
-The problems are categorized based on their topics and difficulty levels. The main categories are:
-
-- [Array](/array)
-- [String](/string)
-- [Linked List](/linked-list)
-- [Tree](/tree)
-- [Sorting and Searching](/sorting-and-searching)
-- [Dynamic Programming](/dynamic-programming)
-- ...
-
-Each category contains subfolders for different problems and their solutions.
+The solutions in this repository are implemented using [JavaScript]. 
 
 ## Usage
 
 To access a specific problem solution, navigate to the corresponding folder and read the README.md file for a detailed explanation of the problem, approach, and code implementation.
 
-Feel free to explore, learn, and suggest improvements. If you find a bug or have a better solution, please consider contributing (see [Contributing](#contributing)).
 
 ## Contributing
 
